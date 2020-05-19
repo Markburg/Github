@@ -1,5 +1,5 @@
 'Alle kinderen moeten leren programmeren'
-19/05/20 om 11:53 - Bijgewerkt om 12:05
+19/05/20 om 11:53 - Bijgewerkt om 12:07
 
 Professoren Informatica van de zes Vlaamse universiteiten pleiten ervoor om leerlingen op school te leren programmeren.
 Anders dreigt Vlaanderen achterop te raken.
@@ -12,5 +12,5 @@ Pijlsnelle evolutie
 De organisatie, ook gekend als 'i22n', werd enkele maanden geleden opgericht door informaticaprofessoren van de zes Vlaamse universiteiten.
 "Op dit moment is informatica in ons basis- en middelbaar onderwijs meestal beperkt tot het leren gebruiken van software zoals Word, Powerpoint of Excel."
 
-"De evolutie in de informatica gaat zo snel dat je kinderen beter kunt leren hoe ze zelf software kunnen maken", zegt professor frank neven van de UHasselt.
+"De evolutie in de informatica gaat zo snel dat je kinderen beter kunt leren hoe ze zelf software kunnen maken", zegt professor Frank Neven van de UHasselt.
 Bron: Datanews
